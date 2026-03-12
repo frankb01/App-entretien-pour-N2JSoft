@@ -32,3 +32,12 @@ L'algorithme de ce simulateur se concentre sur les piliers critiques du poste ch
 1. Cloner le repo :
    ```bash
    git clone [https://github.com/votre-username/n2f-interview-sim.git](https://github.com/votre-username/n2f-interview-sim.git)
+Installer les dépendances :
+
+Bash
+pip install -r requirements.txt
+Configurer les secrets :
+Ajouter votre OPENAI_API_KEY dans le fichier .streamlit/secrets.toml.
+
+🎓 Objectif Pédagogique
+Ce projet démontre ma capacité à utiliser l'IA Générative pour modéliser des environnements professionnels complexes et préparer des déploiements SaaS à haute valeur technique.
